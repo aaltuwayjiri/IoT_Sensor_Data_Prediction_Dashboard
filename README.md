@@ -155,7 +155,6 @@ iot-sensor-dashboard/
 ├── report/
 │   └── IoT_Project_Report.pdf   # Full written project report
 ├── images/                      # README images (see table below)
-└── .gitignore
 ```
 
 ### 🖼️ Exactly where each image goes
